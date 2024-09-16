@@ -1,0 +1,15 @@
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.deps.json
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.runtimeconfig.json
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.dll
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.pdb
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.csproj.AssemblyReference.cache
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.AssemblyInfo.cs
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.dll
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/refint/BinarySearchTree.dll
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.pdb
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.genruntimeconfig.cache
+/Users/leighchejaikarran/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net7.0/ref/BinarySearchTree.dll
